@@ -40,7 +40,7 @@ Este projeto é uma aplicação prática desenvolvida durante o curso de React. 
     ```
 4. Execute a aplicação:
     ```bash
-    npm start
+    npm run dev
     ```
 
 ## Contribuição
